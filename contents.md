@@ -1,2 +1,5 @@
-this is some text just to see how this blob thing works
-thik i would need some text here to see it work
+# contents
+
+- titles.md: The movie titles in the WebFlyx collection
+- classics.csv: A comma-separated list of classic movies
+- quotes: A directory of files containing memorable quotes from movies
